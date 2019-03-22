@@ -1,0 +1,6 @@
+1) There are 11 commits.
+2) Last commit was submmited on March 20, 2018 at 14:21:18.
+3) Author of commits is Stepan Bolotnikov, <stjoopa@gmail.com>.
+4) Commit with the SHA-1 hash cebfb27 states, that local configuration data was added.
+
+ 
